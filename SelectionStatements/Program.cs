@@ -55,6 +55,10 @@ namespace SelectionStatements
                 case "art":
                     Console.WriteLine("Your are a very creative person to love art!");
                     break;
+                default:
+                    Console.WriteLine("Wow I dont take that subject!");
+                    break;
+
 
 
             }
